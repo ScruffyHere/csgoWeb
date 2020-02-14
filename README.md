@@ -21,7 +21,9 @@ Ability to edit flags of current users
 Refrence:https://wiki.alliedmods.net/Adding_Admins_(SourceMod)
 
 -When a user is added it must be placed in both files and the same when removed.
+
 -The user interface must look good (use bootstrap).
+
 -Must have an options section to specify the file location for both files
 
 https://wiki.alliedmods.net/Adding_Admins_(SourceMod)
